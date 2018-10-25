@@ -1,5 +1,5 @@
 {
-    "name": "koenpunt/php-inflector",
+    "name": "epicagency/php-inflector",
     "description": "PHP Inflector, ported from Rails",
     "type": "library",
     "keywords": ["php", "inflector"],
